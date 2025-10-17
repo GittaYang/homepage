@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yang Liu, Physics of Fluids Group, University of Twente"
 author_profile: true
 redirect_from: 
   - /about/
